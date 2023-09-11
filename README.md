@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🔭 I’m currently working as a frontend software developer at Delivery Center
+- 🔭 I’m currently working as a frontend software developer at iFood
 - 🌱 I’m learning at the moment ReactJS, NextJS and Typescript
 
 - 💻 [Website](https://brunaschneiders.github.io/) - Working on it.
